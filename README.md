@@ -10,7 +10,7 @@ A multi-page React application for browsing recipes, filtering by dietary prefer
 - **Name:** Anjali Mishra
 - **UID / Roll Number:** 180
 - **Assigned Problem Statement:** P3 — Recipe Book
-- **Live Vercel Deployment Link:** [Enter Your Vercel Live Link Here]
+- **Live Vercel Deployment Link:** https://web-ass-7-hw-git-main-anjalis-projects-447eef4c.vercel.app/
 - **GitHub Repository:** https://github.com/anjalimishra-0007/Web-ASS-7_HW
 
 ---
